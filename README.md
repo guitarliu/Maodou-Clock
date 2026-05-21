@@ -8,7 +8,10 @@
 
 ![Language](https://img.shields.io/badge/Language-C++%20%2F%20Python-blue.svg) ![Framework](https://img.shields.io/badge/Framework-Arduino-orange.svg) ![Platform](https://img.shields.io/badge/Platform-ESP32--C3-red.svg) ![Protocol](https://img.shields.io/badge/Protocol-WebSocket-lightgrey.svg)
 
-![Preview](./preview.png)
+<div align="left">
+  <img src="./preview.png" width="240" />
+  <img src="./agent_ui.png" width="240" />
+</div>
 
 ---
 
